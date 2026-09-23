@@ -29,7 +29,7 @@
 也可以用命令行：
 
 ```bash
-code --install-extension xinghuo-unlimited-token-1.9.19.vsix
+code --install-extension xinghuo-unlimited-token-1.9.25.vsix
 ```
 
 （把 `code` 换成你实际用的命令：Windsurf 是 `windsurf`，Devin 是 `devin`。）
@@ -83,7 +83,7 @@ Cascade 和 Devin Local 都能用你勾选的模型。改完勾选重载一次�
 
 ## 更新日志
 
-每个版本的改动写在对应的 [Release 说明](../../releases)里。当前最新：**v1.9.19**。
+每个版本的改动写在对应的 [Release 说明](../../releases)里。当前最新：**v1.9.25**。
 
 本页的 Releases 永远是最新的；插件商店受其自身缓存影响，可能会慢一些。
 
